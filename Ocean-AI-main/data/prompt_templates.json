@@ -1,0 +1,22 @@
+{
+  "categorize_email": {
+    "name": "Smart Categorization",
+    "description": "Classifies emails with confidence scores and reasoning.",
+    "template": "You are an advanced email classifier. Analyze the following email and categorize it.\n\nCategories:\n- Urgent: Requires immediate action or has a deadline < 24 hours.\n- Work: Internal communication, projects, or meetings.\n- Spam: Unsolicited offers, prizes, or phishing attempts.\n- Newsletter: Updates, articles, or subscriptions.\n- Finance: Invoices, payments, or salary.\n\nInput Email:\nSubject: {subject}\nSender: {sender}\nBody: {body}\n\nInstructions:\n1. Look for keywords indicating urgency (e.g., 'ASAP', 'Deadline').\n2. Check the sender domain (internal vs external).\n3. Assign a confidence score (0-1.0) based on how clear the category is.\n\nOutput strictly valid JSON format:\n{\n  \"category\": \"Urgent | Work | Spam | Newsletter | Finance\",\n  \"confidence_score\": 0.0 to 1.0,\n  \"reasoning\": \"Brief explanation why\"\n}"
+  },
+  "extract_action_items": {
+    "name": "Task Extraction Agent",
+    "description": "Extracts specific to-do items and deadlines.",
+    "template": "Analyze the email below and extract actionable tasks. If no tasks exists, return an empty list.\n\nEmail Body:\n{body}\n\nInstructions:\n- Extract the task description.\n- Extract the deadline if mentioned (convert to YYYY-MM-DD format if possible, otherwise keep text).\n- Assign priority (High/Medium/Low).\n\nOutput strictly valid JSON format:\n{\n  \"action_items\": [\n    {\n      \"task\": \"Description of task\",\n      \"deadline\": \"YYYY-MM-DD or null\",\n      \"priority\": \"High | Medium | Low\"\n    }\n  ]\n}"
+  },
+  "generate_reply": {
+    "name": "Context-Aware Drafter",
+    "description": "Drafts replies using history and user tone.",
+    "template": "You are a professional email assistant. Draft a reply to the email below.\n\n--- CONTEXT FROM PREVIOUS EMAILS ---\n{context}\n------------------------------------\n\nCURRENT EMAIL:\nSender: {sender}\nBody: {body}\n\nUSER INSTRUCTIONS: {user_instructions}\n\nGuidelines:\n1. Use the 'Context' to answer specific questions if the info is available there.\n2. Maintain a {tone} tone.\n3. Do not include placeholders like '[Your Name]'. Sign off as 'The AI Agent'.\n\nOutput only the email body text."
+  },
+  "optimize_prompt": {
+    "name": "Prompt Engineer",
+    "description": "Rewrites user prompts to be more effective.",
+    "template": "You are an expert Prompt Engineer. The user has written a draft prompt for an AI agent.\n\nUser's Draft Prompt: \"{user_prompt}\"\n\nGoal: Rewrite this prompt to be more precise, robust, and effective for an LLM. Ensure it includes instructions for edge cases.\n\nOutput only the rewritten prompt."
+  }
+}

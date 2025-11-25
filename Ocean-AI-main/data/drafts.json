@@ -1,0 +1,16 @@
+[
+  {
+    "original_email_id": 101,
+    "recipient": "sarah.connor@techcorp.com",
+    "subject": "Re: Project Delta Requirements - FINAL",
+    "body": "Hi Sarah,\n\nThank you for the reminder about the Project Delta deliverables. I appreciate the clarification on the submission process. I\u2019ll ensure that both the PDF report and the Excel raw data are ready for the November 25th deadline. \n\nPlease let me know if there\u2019s anything else you need from me in the meantime.\n\nBest,  \nThe AI Agent",
+    "status": "draft"
+  },
+  {
+    "original_email_id": 106,
+    "recipient": "hr@techcorp.com",
+    "subject": "Re: Employee Satisfaction Survey",
+    "body": "Dear HR Team,\n\nThank you for the reminder. I will complete the attached survey by Friday as requested. I appreciate the opportunity to provide feedback to help improve our workplace.\n\nBest regards,  \nThe AI Agent",
+    "status": "draft"
+  }
+]
