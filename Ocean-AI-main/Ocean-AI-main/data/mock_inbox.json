@@ -1,0 +1,242 @@
+[
+  {
+    "id": 101,
+    "sender": "sarah.connor@techcorp.com",
+    "subject": "Project Delta Requirements - FINAL",
+    "body": "Hi Team, for the Project Delta deliverables, remember that the deadline is strictly November 25th. We need to submit the PDF report and the Excel raw data. Do not submit the PowerPoint deck yet.",
+    "timestamp": "2025-10-20 09:00:00",
+    "read": false
+  },
+  {
+    "id": 102,
+    "sender": "newsletter@dailyai.com",
+    "subject": "Top 5 AI Tools of the Week",
+    "body": "Here are the top tools: 1. Gemini 2. ChatGPT 3. Claude... We also have a special offer for Pro subscriptions. [Unsubscribe link]",
+    "timestamp": "2025-10-21 08:30:00",
+    "read": false
+  },
+  {
+    "id": 103,
+    "sender": "security-test@techcorp.com",
+    "subject": "ACTION REQUIRED: Password Expiry",
+    "body": "This is an internal security test. Please do not click any links. Simply reply with 'Acknowledged' to confirm you have received this notification.",
+    "timestamp": "2025-10-21 10:15:00",
+    "read": false
+  },
+  {
+    "id": 104,
+    "sender": "amazon-delivery@fake-spam.com",
+    "subject": "YOU WON A IPHONE 16!!",
+    "body": "Click here to claim your prize now!!! Urgent!!! Don't miss out on this amazing opportunity.",
+    "timestamp": "2025-10-21 11:00:00",
+    "read": false
+  },
+  {
+    "id": 105,
+    "sender": "john.smith@techcorp.com",
+    "subject": "Quick question about Delta submission",
+    "body": "Hey, I'm putting together the submission folder. Are we supposed to include the PowerPoint deck or just the PDF? I lost Sarah's original email.",
+    "timestamp": "2025-10-22 14:00:00",
+    "read": false
+  },
+  {
+    "id": 106,
+    "sender": "hr@techcorp.com",
+    "subject": "Employee Satisfaction Survey",
+    "body": "Please fill out the attached survey by Friday. It will take 5 minutes. Your feedback helps us improve the workplace.",
+    "timestamp": "2025-10-23 09:00:00",
+    "read": false
+  },
+  {
+    "id": 107,
+    "sender": "vendor@cloudservices.io",
+    "subject": "Invoice #9921 Overdue",
+    "body": "Dear Customer, your invoice for October cloud services is overdue. Please remit payment of $450 immediately to avoid service interruption.",
+    "timestamp": "2025-10-23 10:30:00",
+    "read": false
+  },
+  {
+    "id": 108,
+    "sender": "mike.ross@techcorp.com",
+    "subject": "Re: Project Delta Requirements - FINAL",
+    "body": "Sarah, I've uploaded the Excel raw data to the shared drive. Can you check if the format is correct?",
+    "timestamp": "2025-10-23 11:00:00",
+    "read": true
+  },
+  {
+    "id": 109,
+    "sender": "linkedin@updates.com",
+    "subject": "You appeared in 5 searches this week",
+    "body": "See who's looking at your profile! People from Apple and Google are viewing your skills.",
+    "timestamp": "2025-10-24 08:00:00",
+    "read": false
+  },
+  {
+    "id": 110,
+    "sender": "ceo@techcorp.com",
+    "subject": "Q4 All Hands Meeting",
+    "body": "Team, please join us for the Q4 All Hands meeting next Tuesday at 10 AM in the main auditorium. Attendance is mandatory.",
+    "timestamp": "2025-10-24 09:00:00",
+    "read": false
+  },
+  {
+    "id": 111,
+    "sender": "food-delivery@promo.com",
+    "subject": "50% off your next lunch",
+    "body": "Hungry? Order now and get half off using code YUMMY50. Valid until midnight.",
+    "timestamp": "2025-10-24 11:30:00",
+    "read": false
+  },
+  {
+    "id": 112,
+    "sender": "sarah.connor@techcorp.com",
+    "subject": "Re: Project Delta Requirements - FINAL",
+    "body": "Mike, the Excel format is fine. Just make sure the headers match the client template.",
+    "timestamp": "2025-10-24 12:15:00",
+    "read": true
+  },
+  {
+    "id": 113,
+    "sender": "dev-ops@techcorp.com",
+    "subject": "Server Maintenance Warning",
+    "body": "Servers will be down for maintenance this Sunday from 2 AM to 4 AM. Please save your work.",
+    "timestamp": "2025-10-24 15:00:00",
+    "read": false
+  },
+  {
+    "id": 114,
+    "sender": "client@bigclient.com",
+    "subject": "Urgent: Meeting Request for Tomorrow",
+    "body": "Can we hop on a call tomorrow at 2 PM to discuss the budget changes? It is quite urgent.",
+    "timestamp": "2025-10-24 16:45:00",
+    "read": false
+  },
+  {
+    "id": 115,
+    "sender": "events@localconf.org",
+    "subject": "Speaker Invitation: Tech Summit 2025",
+    "body": "We would love to have someone from your team speak at our upcoming summit. Please submit a proposal by end of month.",
+    "timestamp": "2025-10-25 09:00:00",
+    "read": false
+  },
+  {
+    "id": 116,
+    "sender": "jira-bot@techcorp.com",
+    "subject": "[JIRA] New Issue Assigned: BUG-404",
+    "body": "A new bug has been assigned to you. Priority: High. Description: Login page crashes on Safari.",
+    "timestamp": "2025-10-25 10:00:00",
+    "read": false
+  },
+  {
+    "id": 117,
+    "sender": "recruiter@competitor.com",
+    "subject": "Opportunity at StartupX",
+    "body": "Hi, I saw your profile and was impressed. We are looking for a lead engineer. Are you open to a chat?",
+    "timestamp": "2025-10-25 13:20:00",
+    "read": false
+  },
+  {
+    "id": 118,
+    "sender": "john.smith@techcorp.com",
+    "subject": "Project Delta - Done",
+    "body": "I have finalized the submission folder. PDF and Excel are in. I excluded the PPT as discussed.",
+    "timestamp": "2025-10-26 17:00:00",
+    "read": false
+  },
+  {
+    "id": 119,
+    "sender": "me@techcorp.com",
+    "subject": "Out of Office",
+    "body": "I will be out of the office starting next Wednesday for a medical appointment.",
+    "timestamp": "2025-10-27 08:00:00",
+    "read": true
+  },
+  {
+    "id": 120,
+    "sender": "admin@techcorp.com",
+    "subject": "Office Party Photos",
+    "body": "Here are the photos from last week's pizza party! [Link]",
+    "timestamp": "2025-10-27 10:00:00",
+    "read": false
+  },
+  {
+    "id": 121,
+    "sender": "director@techcorp.com",
+    "subject": "URGENT: Client Crisis - Need Response ASAP",
+    "body": "The client just called and is furious about the downtime. I need a root cause analysis report on my desk within 2 hours. Drop everything else.",
+    "timestamp": "2025-10-27 10:05:00",
+    "read": false
+  },
+  {
+    "id": 122,
+    "sender": "payroll@techcorp.com",
+    "subject": "Payslip Generated: October 2025",
+    "body": "Your monthly salary slip for October has been generated. Net pay: $4,200. Please log in to the portal to view the breakdown.",
+    "timestamp": "2025-10-27 10:10:00",
+    "read": false
+  },
+  {
+    "id": 123,
+    "sender": "marketing-guru@bulk-mail.net",
+    "subject": "Boost Your SEO Ranking in 24 Hours!",
+    "body": "We guarantee #1 ranking on Google. 100% legit. Click here to buy our package for only $50. Limited time offer!",
+    "timestamp": "2025-10-27 10:15:00",
+    "read": false
+  },
+  {
+    "id": 124,
+    "sender": "digest@pythonweekly.com",
+    "subject": "Python Weekly: What's new in 3.13?",
+    "body": "This week's top stories: 1. GIL removal updates. 2. New f-string features. 3. Top 10 Data Science libraries of 2025. Read more...",
+    "timestamp": "2025-10-27 10:30:00",
+    "read": false
+  },
+  {
+    "id": 125,
+    "sender": "finance@techcorp.com",
+    "subject": "Payment Confirmation: Cloud Services Vendor",
+    "body": "This is to confirm that we have remitted payment of $450 for Invoice #9921 (Cloud Services). It should reflect in the vendor account by tomorrow.",
+    "timestamp": "2025-10-27 11:00:00",
+    "read": false
+  },
+  {
+    "id": 126,
+    "sender": "project-manager@techcorp.com",
+    "subject": "Brainstorming Session: Q4 Roadmap",
+    "body": "Hey team, let's gather in Conference Room B on Thursday at 2 PM to discuss the roadmap. Please bring your ideas for the new feature set.",
+    "timestamp": "2025-10-27 11:30:00",
+    "read": false
+  },
+  {
+    "id": 127,
+    "sender": "alert@monitor-system.com",
+    "subject": "CRITICAL: Database CPU at 99%",
+    "body": "Alert: The primary production database is experiencing high load. Immediate investigation required to prevent outage.",
+    "timestamp": "2025-10-27 11:45:00",
+    "read": false
+  },
+  {
+    "id": 128,
+    "sender": "billing@aws-cloud.com",
+    "subject": "AWS Invoice [October] - Charged",
+    "body": "Hello, your credit card ending in 4421 has been successfully charged $124.50 for AWS services. Download your invoice here.",
+    "timestamp": "2025-10-27 12:00:00",
+    "read": false
+  },
+  {
+    "id": 129,
+    "sender": "prince@inheritance-fund.org",
+    "subject": "Greeting my dear friend",
+    "body": "I have a business proposal of 5 Million USD. I need a foreign partner to help transfer these funds. You will keep 20%.",
+    "timestamp": "2025-10-27 12:15:00",
+    "read": false
+  },
+  {
+    "id": 130,
+    "sender": "news@techcrunch.com",
+    "subject": "Daily Crunch: The rise of AI Agents",
+    "body": "Today's big story: How AI Agents are replacing traditional inboxes. Also, startup funding rounds and new gadget releases.",
+    "timestamp": "2025-10-27 12:30:00",
+    "read": false
+  }
+]
